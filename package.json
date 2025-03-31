@@ -1,4 +1,4 @@
-{
+ {
   "name": "url1",
   "version": "1.0.0",
   "description": "its a shortner Chirayu",
@@ -7,7 +7,7 @@
   "scripts": {
     "dev": "node --watch app.js",
     "start": "node app.js",
-    "build": "echo 'No build step needed' "
+    "build": "npm install && echo 'Build step executed'"
   },
   "author": "",
   "license": "ISC",
